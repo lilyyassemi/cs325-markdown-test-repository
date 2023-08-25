@@ -2,4 +2,7 @@
 ## Header 2
 ### Header 3
 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 Added headers to the index.md file for the markdown repository test
