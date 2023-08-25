@@ -5,4 +5,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+
+``` c++
+int myVar = 6;
+```
+
 Added headers to the index.md file for the markdown repository test
