@@ -10,4 +10,8 @@
 int myVar = 6;
 ```
 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 Added headers to the index.md file for the markdown repository test
